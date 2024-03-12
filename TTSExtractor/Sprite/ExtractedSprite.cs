@@ -10,10 +10,33 @@ using TTSExtractor.Palletes;
 
 namespace TTSExtractor.Sprite
 {
-    public sealed class ExtractedSprite : ISprite, IResource
+    public class ExtractedSprite : ISprite, IResource
     {
-        public int Width { get; private set; }
-        public int Height { get; private set; }
+        public int Width { get; set; }
+        public int Height { get; set; }
+
+        public int SpriteWidth
+        {
+            get
+            {
+                return Width;
+            }
+            set
+            {
+                Width = value;
+            }
+        }
+        public int SpriteHeight
+        {
+            get
+            {
+                return Height;
+            }
+            set
+            {
+                Height = value;
+            }
+        }
 
         public Image<Rgba32> Sprite { get; private set; }
 

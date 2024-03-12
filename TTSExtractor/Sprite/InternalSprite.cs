@@ -12,8 +12,40 @@ namespace TTSExtractor.Sprite
     {
         public Image<Rgba32> Sprite { get; }
 
-        public int Width { get; }
+        public int Width { get; set; }
 
-        public int Height {get;}
+        public int Height { get; set; }
+
+        public int SpriteWidth
+        {
+            get
+            {
+                return Width;
+            }
+            set
+            {
+                Width = value;
+            }
+        }
+        public int SpriteHeight
+        {
+            get
+            {
+                return Height;
+            }
+            set
+            {
+                Height = value;
+            }
+        }
+
+        public InternalSprite(int width, int height, Image<Rgba32> sprite)
+        {
+            Sprite = sprite;
+            Width = width;
+            Height = height;
+            SpriteWidth = width;
+            SpriteHeight = height;
+        }
     }
 }

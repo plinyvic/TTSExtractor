@@ -14,12 +14,21 @@ namespace TTSExtractor.Sprite
     {
         public Image<Rgba32> Sprite { get; }
 
-        public int Width { get; }
-        public int Height { get; }
+        public int Width { get; protected set; }
+        public int Height { get; protected set; }
+
+        public int SpriteWidth { get; protected set; }
+
+        public int SpriteHeight { get; protected set; }
 
         public void Upscale(int factor, IResampler resampler)
         {
-            Sprite.Mutate(x => x.Resize(Width * factor, Height * factor, resampler));
+            Width = Width * factor;
+            Height = Height * factor;
+            SpriteWidth = SpriteWidth * factor;
+            SpriteHeight = SpriteHeight * factor;
+            
+            Sprite.Mutate(x => x.Resize(Width, Height, resampler));
         }
     }
 }

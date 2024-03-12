@@ -11,13 +11,13 @@ namespace TTSExtractor.Sprite
 {
     public class SpriteSheet : ISprite
     {
-        public int Width { get; protected set; }
+        public int Width { get; set; }
 
-        public int Height { get; protected set; }
+        public int Height { get; set; }
 
-        public int SpriteWidth { get; }
+        public int SpriteWidth { get; set; }
 
-        public int SpriteHeight { get; }
+        public int SpriteHeight { get; set; }
 
         public int ColumnCount { get; }
 
@@ -43,6 +43,7 @@ namespace TTSExtractor.Sprite
             Width = sprite.Width;
             Height = sprite.Height;
             Sprite = sprite;
+            SpriteList = new();
         }
 
         public static SpriteSheet LoadAndSliceSpriteSheet(string file, int spriteWidth, int spriteHeight, int maxToSlice = Int32.MaxValue)
@@ -57,7 +58,8 @@ namespace TTSExtractor.Sprite
                 int xPos = (i % spritesWide) * spriteWidth;
                 int yPos = (i / spritesWide * spriteHeight);
 
-
+                var newSprite = spriteSheet.Sprite.Clone(image => image.Crop(new Rectangle(xPos, yPos, spriteWidth, spriteHeight)));
+                spriteSheet.SpriteList.Add(new InternalSprite(spriteWidth, spriteHeight, newSprite));
             }
 
             return spriteSheet;
