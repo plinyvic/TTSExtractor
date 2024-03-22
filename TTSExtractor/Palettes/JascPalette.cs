@@ -4,24 +4,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TTSExtractor.InputData;
+using TTSExtractor.Resource;
 
 namespace TTSExtractor.Palletes
 {
-    public sealed class JascPalette
+    public sealed class JascPalette : IResource
     {
-        public string FilePath { get; } = null;
+        public string SourceFile { get; } = null;
+
+        public string Name { get; } = null;
 
         public Rgba32[] Palette { get; set; } = new Rgba32[256];
 
-        public JascPalette(string filePath)
+        public JascPalette(PaletteInputData inputData)
         {
-            FilePath = filePath;
+            SourceFile = inputData.SourceFile;
+            Name = inputData.Name;
             LoadPalette();
         }
 
         private void LoadPalette()
         {
-            using(StreamReader reader = new StreamReader(FilePath))
+            using(StreamReader reader = new StreamReader(SourceFile))
             {
                 _ = reader.ReadLine();
                 _ = reader.ReadLine();

@@ -363,3 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 /TTSExtractorTesting/Program.cs
 /TTSExtractorTesting/test/*
+/TTSExtractor/Assets
