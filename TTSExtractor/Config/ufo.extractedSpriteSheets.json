@@ -1,0 +1,11 @@
+[
+    {
+        "SourceFile": "Assets/xcom1/UNITS/FLOOROB.PCK",
+        "Name": "UFO-FLOOROB",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-FLOOROB-TAB",
+        "PaletteName": "UFO-BATTLESCAPE"
+    }
+]

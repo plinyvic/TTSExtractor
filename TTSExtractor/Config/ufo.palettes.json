@@ -1,0 +1,10 @@
+[
+    {
+        "SourceFile": "Palettes/UFO-JASC/BACKPALS.DAT.pal",
+        "Name": "UFO-BACKPALS"
+    },
+    {
+        "SourceFile": "Palettes/UFO-JASC/PAL_BATTLESCAPE.pal",
+        "Name": "UFO-BATTLESCAPE"
+    }
+]
