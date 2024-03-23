@@ -8,9 +8,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Assets\**" />
+    <Compile Remove="Config\**" />
+    <EmbeddedResource Remove="Assets\**" />
+    <EmbeddedResource Remove="Config\**" />
+    <None Remove="Assets\**" />
+    <None Remove="Config\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="SixLabors.ImageSharp" Version="3.1.3" />
     <PackageReference Include="System.Drawing.Common" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Output\Dump\" />
   </ItemGroup>
 
 </Project>

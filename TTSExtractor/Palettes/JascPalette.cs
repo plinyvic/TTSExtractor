@@ -53,5 +53,10 @@ namespace TTSExtractor.Palletes
                 }
             }
         }
+
+        public void SaveResource()
+        {
+            // do nothing <3
+        }
     }
 }

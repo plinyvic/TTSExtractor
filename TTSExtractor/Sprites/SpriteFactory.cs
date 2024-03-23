@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TTSExtractor
+namespace TTSExtractor.Sprites
 {
-    internal interface IResource
+    public class SpriteFactory
     {
-        public string SourceFile { get; }
 
-        public string Name { get; }
     }
 }

@@ -364,3 +364,4 @@ FodyWeavers.xsd
 /TTSExtractorTesting/Program.cs
 /TTSExtractorTesting/test/*
 /TTSExtractor/Assets
+/TTSExtractor/Output/Dump/Sprite
