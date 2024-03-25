@@ -4,6 +4,8 @@
         "Name": "UFO-BIGOB-00",
         "PaletteName": "UFO-BATTLESCAPE",
         "Width": 32,
-        "Height": 48
+        "Height": 48,
+        "TargetWidth": 64,
+        "TargetHeight": 96
     }
 ]

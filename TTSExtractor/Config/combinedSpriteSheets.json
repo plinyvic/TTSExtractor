@@ -1,0 +1,40 @@
+[
+    {
+        "Name": "floorob",
+        "ColumnCount": 16,
+        "TargetWidth": 64,
+        "TargetHeight": 80,
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-FLOOROB"
+            },
+            {
+                "Name": "floorob_body_1"
+            },
+            {
+                "Name": "floorob_body_2"
+            },
+            {
+                "Name": "floorob_body_3"
+            },
+            {
+                "Name": "floorob_body_psionic"
+            },
+            {
+                "Name": "ear"
+            },
+            {
+                "Name": "_BLANK_",
+                "Length": 18
+            },
+            {
+                "Name": "TFTD-FLOOROB",
+                "Length": 82
+            },
+            {
+                "Name": "floorob_misc"
+            }
+        ]
+    }
+]
