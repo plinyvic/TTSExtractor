@@ -363,5 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 /TTSExtractorTesting/Program.cs
 /TTSExtractorTesting/test/*
-/TTSExtractor/Assets
+/TTSExtractor/Assets/xcom1
+/TTSExtractor/Assets/xcom2
 /TTSExtractor/Output/Dump/Sprite
