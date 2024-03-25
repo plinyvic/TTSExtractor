@@ -1,6 +1,7 @@
 ﻿using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
+using SixLabors.ImageSharp.Processing.Processors.Transforms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,6 +33,15 @@ namespace TTSExtractor.Sprites
             SourceFile = inputData.SourceFile;
 
             LoadSpriteSheet(inputData);
+
+            if (inputData.TargetWidth != null && inputData.TargetHeight != null)
+            {
+                Upscale(inputData.TargetWidth.Value, inputData.TargetHeight.Value);
+            }
+            else if (inputData.TargetWidth != null ^ inputData.TargetHeight != null)
+            {
+                throw new ArgumentException($"Both target width and target height must be set for sprite {Name}");
+            }
         }
 
         public SpriteSheet(ExtractedSpriteSheetInputData inputData, ResourceManager manager)
@@ -43,6 +53,72 @@ namespace TTSExtractor.Sprites
             SourceFile = inputData.SourceFile;
 
             LoadSpriteSheet(inputData, manager);
+
+            if (inputData.TargetWidth != null && inputData.TargetHeight != null)
+            {
+                Upscale(inputData.TargetWidth.Value, inputData.TargetHeight.Value);
+            }
+            else if (inputData.TargetWidth != null ^ inputData.TargetHeight != null)
+            {
+                throw new ArgumentException($"Both target width and target height must be set for sprite {Name}");
+            }
+        }
+
+        public SpriteSheet(SpriteSheetRangeInputData inputData, ResourceManager manager)
+        {
+            Width = inputData.TargetWidth;
+            Height = inputData.TargetHeight;
+            ColumnCount = inputData.ColumnCount;
+            Name = inputData.Name;
+
+            foreach(var slice in inputData.SpriteSheets)
+            {
+                if(slice.Name.StartsWith("_BLANK_"))
+                {
+                    for(int i = 0; i < slice.Length; i++)
+                    {
+                        SpriteList.Add(new Image<Rgba32>(Width, Height, new Rgba32(0,0,0,0)));
+                    }
+
+                    continue;
+                }
+
+                IResource currentItem = manager.GetResource(slice.Name);
+
+                if(currentItem is SpriteSheet currentSheet)
+                {
+                    if (slice.Length == null)
+                    {
+                        SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, currentSheet.SpriteList.Count - slice.StartIndex));
+                    }
+                    else
+                    {
+                        SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, slice.Length.Value));
+                    }
+                }
+                else if(currentItem is Sprite currentSprite)
+                {
+                    SpriteList.Add(currentSprite.ContainedSprite);
+                }
+                else
+                {
+                    throw new ArgumentException($"Resource {slice.Name} is not a sprite or sprite sheet.");
+                }
+
+                //SpriteSheet currentSheet = manager.GetResource<SpriteSheet>(slice.Name);
+
+                //if(slice.Length == null)
+                //{
+                //    SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, currentSheet.SpriteList.Count - slice.StartIndex));
+                //}
+                //else
+                //{
+                //    SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, slice.Length.Value));
+                //}
+            }
+
+            // call upscale to set all images to same dimension
+            Upscale(inputData.TargetWidth, inputData.TargetHeight);
         }
 
         protected void LoadSpriteSheet(SpriteSheetInputData inputData)
@@ -67,6 +143,22 @@ namespace TTSExtractor.Sprites
             JascPalette palette = manager.GetResource<JascPalette>(inputData.PaletteName);
 
             SpriteList = PckSheetExtractor.DecodeFromInputData(inputData, palette, tab);
+        }
+
+        public override void Upscale(int targetWidth, int targetHeight, IResampler resampler = null)
+        {
+            if (resampler == null)
+            {
+                resampler = KnownResamplers.NearestNeighbor;
+            }
+
+            Width = targetWidth; 
+            Height = targetHeight;
+
+            foreach (var sprite in SpriteList)
+            {
+                sprite.Mutate(x => x.Resize(targetWidth, targetHeight, resampler));
+            }
         }
 
         public override void SaveResource()

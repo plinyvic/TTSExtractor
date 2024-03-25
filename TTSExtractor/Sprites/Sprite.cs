@@ -27,6 +27,15 @@ namespace TTSExtractor.Sprites
             Name = input.Name;
 
             LoadSpriteFromFile(input, manager.GetResource<JascPalette>(input.PaletteName));
+
+            if (input.TargetWidth != null && input.TargetHeight != null)
+            {
+                Upscale(input.TargetWidth.Value, input.TargetHeight.Value);
+            }
+            else if (input.TargetWidth != null ^ input.TargetHeight != null)
+            {
+                throw new ArgumentException($"Both target width and target height must be set for sprite {Name}");
+            }
         }
 
         public Sprite(SpriteInputData input)
@@ -34,18 +43,28 @@ namespace TTSExtractor.Sprites
             SourceFile = input.SourceFile;
             Name = input.Name;
             LoadSpriteFromFile();
+
+            if(input.TargetWidth != null && input.TargetHeight != null) 
+            {
+                Upscale(input.TargetWidth.Value, input.TargetHeight.Value);
+            }
+            else if (input.TargetWidth != null ^ input.TargetHeight != null)
+            {
+                throw new ArgumentException($"Both target width and target height must be set for sprite {Name}");
+            }
         }
 
         public Sprite() { }
 
-        public void Upscale(int factor, IResampler resampler = null)
+        public virtual void Upscale(int targetWidth, int targetHeight, IResampler resampler = null)
         {
             if (resampler == null)
             {
                 resampler = KnownResamplers.NearestNeighbor;
             }
 
-            ContainedSprite.Mutate(x => x.Resize(ContainedSprite.Width, ContainedSprite.Height, resampler));
+
+            ContainedSprite.Mutate(x => x.Resize(targetWidth, targetHeight, resampler));
         }
 
         /// <summary>
