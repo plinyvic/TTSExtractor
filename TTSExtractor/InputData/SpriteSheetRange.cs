@@ -7,16 +7,15 @@ using System.Threading.Tasks;
 
 namespace TTSExtractor.InputData
 {
-    [JsonObject(MemberSerialization = MemberSerialization.OptOut)]
-    public class SpriteInputData
+    public class SpriteSheetRange
     {
-        public string SourceFile { get; set; }
+        [JsonProperty(Required = Required.Always)]
         public string Name { get; set; }
 
         [JsonProperty(Required = Required.DisallowNull)]
-        public int? TargetWidth { get; set; }
+        public int StartIndex { get; set; } = 0;
 
         [JsonProperty(Required = Required.DisallowNull)]
-        public int? TargetHeight { get; set; }
+        public int? Length { get; set; } = null;
     }
 }

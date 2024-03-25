@@ -89,6 +89,17 @@ namespace TTSExtractor.InputData
                     manager.RegisterResource(spriteSheet);
                 }
             }
+
+            string[] sheetRangeConfigs = allFiles.Where(x => x.EndsWith("combinedSpriteSheets.json")).ToArray();
+            foreach(string sheetRangeConfig in sheetRangeConfigs) 
+            {
+                string jsonText = File.ReadAllText(sheetRangeConfig);
+                SpriteSheet[] spriteSheets = JsonConvert.DeserializeObject<SpriteSheetRangeInputData[]>(jsonText).Select(x => new SpriteSheet(x, manager)).ToArray();
+                foreach (SpriteSheet spriteSheet in spriteSheets)
+                {
+                    manager.RegisterResource(spriteSheet);
+                }
+            }
         }
     }
 }
