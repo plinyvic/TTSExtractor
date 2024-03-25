@@ -104,17 +104,6 @@ namespace TTSExtractor.Sprites
                 {
                     throw new ArgumentException($"Resource {slice.Name} is not a sprite or sprite sheet.");
                 }
-
-                //SpriteSheet currentSheet = manager.GetResource<SpriteSheet>(slice.Name);
-
-                //if(slice.Length == null)
-                //{
-                //    SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, currentSheet.SpriteList.Count - slice.StartIndex));
-                //}
-                //else
-                //{
-                //    SpriteList.AddRange(currentSheet.SpriteList.GetRange(slice.StartIndex, slice.Length.Value));
-                //}
             }
 
             // call upscale to set all images to same dimension
