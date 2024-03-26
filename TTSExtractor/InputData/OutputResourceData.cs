@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace TTSExtractor.InputData
 {
-    public class OutputSpriteSheetData
+    public class OutputResourceData
     {
+        public string Name { get; set; }
 
+        public string OutputPath { get; set; }
     }
 }

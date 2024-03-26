@@ -12,6 +12,6 @@ namespace TTSExtractor.Resource
 
         public string Name { get; }
 
-        public abstract void SaveResource();
+        public abstract void SaveResource(string path);
     }
 }

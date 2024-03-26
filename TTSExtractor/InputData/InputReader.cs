@@ -100,6 +100,17 @@ namespace TTSExtractor.InputData
                     manager.RegisterResource(spriteSheet);
                 }
             }
+
+            string[] outputConfigs = allFiles.Where(x => x.EndsWith("output.json")).ToArray();
+            foreach (string outputConfig in outputConfigs)
+            {
+                string jsonText = File.ReadAllText(outputConfig);
+                OutputResourceData[] outputDatas = JsonConvert.DeserializeObject<OutputResourceData[]>(jsonText);
+                foreach (OutputResourceData outputData in outputDatas)
+                {
+                    manager.MapOutput(outputData);
+                }
+            }
         }
     }
 }
