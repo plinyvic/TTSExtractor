@@ -1,0 +1,137 @@
+[
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/AVENGER.TAB",
+        "Name": "UFO-AVENGER-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/BARN.TAB",
+        "Name": "UFO-BARN-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/BLANKS.TAB",
+        "Name": "UFO-BLANKS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/BRAIN.TAB",
+        "Name": "UFO-BRAIN-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/CULTIVAT.TAB",
+        "Name": "UFO-CULTIVAT-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/DESERT.TAB",
+        "Name": "UFO-DESERT-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/FOREST.TAB",
+        "Name": "UFO-FOREST-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/FRNITURE.TAB",
+        "Name": "UFO-FRNITURE-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/JUNGLE.TAB",
+        "Name": "UFO-JUNGLE-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/LIGHTNIN.TAB",
+        "Name": "UFO-LIGHTNIN-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/MARS.TAB",
+        "Name": "UFO-MARS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/MOUNT.TAB",
+        "Name": "UFO-MOUNT-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/PLANE.TAB",
+        "Name": "UFO-PLANE-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/POLAR.TAB",
+        "Name": "UFO-POLAR-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/ROADS.TAB",
+        "Name": "UFO-ROADS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_BASE.TAB",
+        "Name": "UFO-U_BASE-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_BITS.TAB",
+        "Name": "UFO-U_BITS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_DISEC2.TAB",
+        "Name": "UFO-U_DISEC2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_EXT02.TAB",
+        "Name": "UFO-U_EXT02-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_OPER2.TAB",
+        "Name": "UFO-U_OPER2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_PODS.TAB",
+        "Name": "UFO-U_PODS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/U_WALL02.TAB",
+        "Name": "UFO-U_WALL02-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/UFO1.TAB",
+        "Name": "UFO-UFO1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/URBAN.TAB",
+        "Name": "UFO-URBAN-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/URBITS.TAB",
+        "Name": "UFO-URBITS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/XBASE1.TAB",
+        "Name": "UFO-XBASE1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/TERRAIN/XBASE2.TAB",
+        "Name": "UFO-XBASE2-TAB",
+        "OffsetSize": 2
+    }
+]

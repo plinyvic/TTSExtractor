@@ -1,0 +1,102 @@
+[
+    {
+        "Name": "UFO-AVENGER",
+        "OutputPath": "Output/graphics_new/terrain/best_plane.png"
+    },
+    {
+        "Name": "UFO-BARN",
+        "OutputPath": "Output/graphics_new/terrain/farm.png"
+    },
+    {
+        "Name": "UFO-BRAIN",
+        "OutputPath": "Output/graphics_new/terrain/brain.png"
+    },
+    {
+        "Name": "UFO-CULTIVAT",
+        "OutputPath": "Output/graphics_new/terrain/farm2.png"
+    },
+    {
+        "Name": "UFO-DESERT",
+        "OutputPath": "Output/graphics_new/terrain/desert.png"
+    },
+    {
+        "Name": "UFO-FOREST",
+        "OutputPath": "Output/graphics_new/terrain/forest.png"
+    },
+    {
+        "Name": "UFO-FRNITURE",
+        "OutputPath": "Output/graphics_new/terrain/furniture.png"
+    },
+    {
+        "Name": "UFO-JUNGLE",
+        "OutputPath": "Output/graphics_new/terrain/jungle.png"
+    },
+    {
+        "Name": "UFO-LIGHTNIN",
+        "OutputPath": "Output/graphics_new/terrain/adv_plane.png"
+    },
+    {
+        "Name": "UFO-MARS",
+        "OutputPath": "Output/graphics_new/terrain/mars.png"
+    },
+    {
+        "Name": "UFO-MOUNT",
+        "OutputPath": "Output/graphics_new/terrain/mountain.png"
+    },
+    {
+        "Name": "UFO-PLANE",
+        "OutputPath": "Output/graphics_new/terrain/plane.png"
+    },
+    {
+        "Name": "UFO-POLAR",
+        "OutputPath": "Output/graphics_new/terrain/arctic.png"
+    },
+    {
+        "Name": "UFO-ROADS",
+        "OutputPath": "Output/graphics_new/terrain/roads.png"
+    },
+    {
+        "Name": "UFO-U_BASE",
+        "OutputPath": "Output/graphics_new/terrain/u_base.png"
+    },
+    {
+        "Name": "UFO-U_DISEC2",
+        "OutputPath": "Output/graphics_new/terrain/ufo_cow.png"
+    },
+    {
+        "Name": "UFO-U_EXT02",
+        "OutputPath": "Output/graphics_new/terrain/ufo_external.png"
+    },
+    {
+        "Name": "UFO-U_OPER2",
+        "OutputPath": "Output/graphics_new/terrain/ufo_table.png"
+    },
+    {
+        "Name": "UFO-U_PODS",
+        "OutputPath": "Output/graphics_new/terrain/ufo_pods.png"
+    },
+    {
+        "Name": "UFO-U_WALL02",
+        "OutputPath": "Output/graphics_new/terrain/ufo_internal.png"
+    },
+    {
+        "Name": "UFO-UFO1",
+        "OutputPath": "Output/graphics_new/terrain/ufo_small.png"
+    },
+    {
+        "Name": "UFO-URBAN",
+        "OutputPath": "Output/graphics_new/terrain/urban.png"
+    },
+    {
+        "Name": "UFO-URBITS",
+        "OutputPath": "Output/graphics_new/terrain/urban2.png"
+    },
+    {
+        "Name": "UFO-XBASE1",
+        "OutputPath": "Output/graphics_new/terrain/human_base.png"
+    },
+    {
+        "Name": "UFO-XBASE2",
+        "OutputPath": "Output/graphics_new/terrain/human_base2.png"
+    }
+]
