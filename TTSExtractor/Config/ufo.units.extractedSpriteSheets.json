@@ -1,0 +1,233 @@
+[
+    {
+        "SourceFile": "Assets/xcom1/UNITS/BIGOBS.PCK",
+        "Name": "UFO-BIGOBS",
+        "Width": 32,
+        "Height": 48,
+        "ColumnCount": 16,
+        "TabName": "UFO-BIGOBS-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 96
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CELATID.PCK",
+        "Name": "UFO-CELATID",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-CELATID-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CHRYS.PCK",
+        "Name": "UFO-CHRYS",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-CHRYS-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CIVF.PCK",
+        "Name": "UFO-CIVF",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-CIVF-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CIVM.PCK",
+        "Name": "UFO-CIVM",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-CIVM-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CYBER.PCK",
+        "Name": "UFO-CYBER",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-CYBER-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/ETHEREAL.PCK",
+        "Name": "UFO-ETHEREAL",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-ETHEREAL-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/FLOATER.PCK",
+        "Name": "UFO-FLOATER",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-FLOATER-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/FLOOROB.PCK",
+        "Name": "UFO-FLOOROB",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-FLOOROB-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/HANDOB.PCK",
+        "Name": "UFO-HANDOB",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-HANDOB-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/MUTON.PCK",
+        "Name": "UFO-MUTON",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-MUTON-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SECTOID.PCK",
+        "Name": "UFO-SECTOID",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-SECTOID-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SILACOID.PCK",
+        "Name": "UFO-SILACOID",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-SILACOID-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SNAKEMAN.PCK",
+        "Name": "UFO-SNAKEMAN",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-SNAKEMAN-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/TANKS.PCK",
+        "Name": "UFO-TANKS",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-TANKS-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/X_REAP.PCK",
+        "Name": "UFO-X_REAP",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-X_REAP-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/X_ROB.PCK",
+        "Name": "UFO-X_ROB",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-X_ROB-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_0.PCK",
+        "Name": "UFO-XCOM_0",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-XCOM_0-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_1.PCK",
+        "Name": "UFO-XCOM_1",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-XCOM_1-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_2.PCK",
+        "Name": "UFO-XCOM_2",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-XCOM_2-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/ZOMBIE.PCK",
+        "Name": "UFO-ZOMBIE",
+        "Width": 32,
+        "Height": 40,
+        "ColumnCount": 16,
+        "TabName": "UFO-ZOMBIE-TAB",
+        "PaletteName": "UFO-BATTLESCAPE",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    }
+]

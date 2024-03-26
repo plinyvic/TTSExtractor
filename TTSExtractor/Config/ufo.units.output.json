@@ -1,0 +1,74 @@
+[
+    {
+        "Name": "UFO-CELATID",
+        "OutputPath": "Output/graphics_new/units/spitter.png"
+    },
+    {
+        "Name": "UFO-CHRYS",
+        "OutputPath": "Output/graphics_new/units/claws.png"
+    },
+    {
+        "Name": "UFO-CIVF",
+        "OutputPath": "Output/graphics_new/units/civf.png"
+    },
+    {
+        "Name": "UFO-CIVM",
+        "OutputPath": "Output/graphics_new/units/civm.png"
+    },
+    {
+        "Name": "UFO-CYBER",
+        "OutputPath": "Output/graphics_new/units/automaton.png"
+    },
+    {
+        "Name": "UFO-ETHEREAL",
+        "OutputPath": "Output/graphics_new/units/phantom.png"
+    },
+    {
+        "Name": "UFO-FLOATER",
+        "OutputPath": "Output/graphics_new/units/flier.png"
+    },
+    {
+        "Name": "UFO-MUTON",
+        "OutputPath": "Output/graphics_new/units/mutant.png"
+    },
+    {
+        "Name": "UFO-SECTOID",
+        "OutputPath": "Output/graphics_new/units/gray.png"
+    },
+    {
+        "Name": "UFO-SILACOID",
+        "OutputPath": "Output/graphics_new/units/stone.png"
+    },
+    {
+        "Name": "UFO-SNAKEMAN",
+        "OutputPath": "Output/graphics_new/units/viper.png"
+    },
+    {
+        "Name": "UFO-TANKS",
+        "OutputPath": "Output/graphics_new/units/tanks.png"
+    },
+    {
+        "Name": "UFO-X_REAP",
+        "OutputPath": "Output/graphics_new/units/aggressor.png"
+    },
+    {
+        "Name": "UFO-X_ROB",
+        "OutputPath": "Output/graphics_new/units/mech.png"
+    },
+    {
+        "Name": "UFO-XCOM_0",
+        "OutputPath": "Output/graphics_new/units/soldier_0.png"
+    },
+    {
+        "Name": "UFO-XCOM_1",
+        "OutputPath": "Output/graphics_new/units/soldier_1.png"
+    },
+    {
+        "Name": "UFO-XCOM_2",
+        "OutputPath": "Output/graphics_new/units/soldier_2.png"
+    },
+    {
+        "Name": "UFO-ZOMBIE",
+        "OutputPath": "Output/graphics_new/units/zombie.png"
+    }
+]

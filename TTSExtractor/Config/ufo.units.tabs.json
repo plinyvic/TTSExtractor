@@ -1,0 +1,107 @@
+[
+    {
+        "SourceFile": "Assets/xcom1/UNITS/BIGOBS.TAB",
+        "Name": "UFO-BIGOBS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CELATID.TAB",
+        "Name": "UFO-CELATID-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CHRYS.TAB",
+        "Name": "UFO-CHRYS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CIVF.TAB",
+        "Name": "UFO-CIVF-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CIVM.TAB",
+        "Name": "UFO-CIVM-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/CYBER.TAB",
+        "Name": "UFO-CYBER-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/ETHEREAL.TAB",
+        "Name": "UFO-ETHEREAL-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/FLOATER.TAB",
+        "Name": "UFO-FLOATER-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/FLOOROB.TAB",
+        "Name": "UFO-FLOOROB-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/HANDOB.TAB",
+        "Name": "UFO-HANDOB-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/MUTON.TAB",
+        "Name": "UFO-MUTON-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SECTOID.TAB",
+        "Name": "UFO-SECTOID-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SILACOID.TAB",
+        "Name": "UFO-SILACOID-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/SNAKEMAN.TAB",
+        "Name": "UFO-SNAKEMAN-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/TANKS.TAB",
+        "Name": "UFO-TANKS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/X_REAP.TAB",
+        "Name": "UFO-X_REAP-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/X_ROB.TAB",
+        "Name": "UFO-X_ROB-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_0.TAB",
+        "Name": "UFO-XCOM_0-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_1.TAB",
+        "Name": "UFO-XCOM_1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/XCOM_2.TAB",
+        "Name": "UFO-XCOM_2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom1/UNITS/ZOMBIE.TAB",
+        "Name": "UFO-ZOMBIE-TAB",
+        "OffsetSize": 2
+    }
+]
