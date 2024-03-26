@@ -1,0 +1,78 @@
+[
+    {
+        "Name": "TFTD-AQUA",
+        "OutputPath": "Output/graphics_new/units/u_blue.png"
+    },
+    {
+        "Name": "TFTD-BIODRON",
+        "OutputPath": "Output/graphics_new/units/u_livingmachine.png"
+    },
+    {
+        "Name": "TFTD-BREATH-1",
+        "OutputPath": "Output/graphics_new/units/breath.png"
+    },
+    {
+        "Name": "TFTD-CALCIN",
+        "OutputPath": "Output/graphics_new/units/u_horror.png"
+    },
+    {
+        "Name": "TFTD-CIVIL_1",
+        "OutputPath": "Output/graphics_new/units/u_civil1.png"
+    },
+    {
+        "Name": "TFTD-CIVIL_2",
+        "OutputPath": "Output/graphics_new/units/u_civil2.png"
+    },
+    {
+        "Name": "TFTD-DEEPONE",
+        "OutputPath": "Output/graphics_new/units/u_darkone.png"
+    },
+    {
+        "Name": "TFTD-GILLMAN",
+        "OutputPath": "Output/graphics_new/units/u_fishman.png"
+    },
+    {
+        "Name": "TFTD-HALLUCIN",
+        "OutputPath": "Output/graphics_new/units/u_jelly.png"
+    },
+    {
+        "Name": "TFTD-LOBSTER",
+        "OutputPath": "Output/graphics_new/units/u_crab.png"
+    },
+    {
+        "Name": "TFTD-TANK01",
+        "OutputPath": "Output/graphics_new/units/u_tanks.png"
+    },
+    {
+        "Name": "TFTD-TASOTHS",
+        "OutputPath": "Output/graphics_new/units/u_seademon.png"
+    },
+    {
+        "Name": "TFTD-TDXCOM_0",
+        "OutputPath": "Output/graphics_new/units/u_human0.png"
+    },
+    {
+        "Name": "TFTD-TDXCOM_1",
+        "OutputPath": "Output/graphics_new/units/u_human1.png"
+    },
+    {
+        "Name": "TFTD-TDXCOM_2",
+        "OutputPath": "Output/graphics_new/units/u_human2.png"
+    },
+    {
+        "Name": "TFTD-TENTAC",
+        "OutputPath": "Output/graphics_new/units/u_brainiac.png"
+    },
+    {
+        "Name": "TFTD-TRISCEN",
+        "OutputPath": "Output/graphics_new/units/u_behemot.png"
+    },
+    {
+        "Name": "TFTD-XARQUID",
+        "OutputPath": "Output/graphics_new/units/u_shrimp.png"
+    },
+    {
+        "Name": "TFTD-ZOMBIE",
+        "OutputPath": "Output/graphics_new/units/u_zombie.png"
+    }
+]

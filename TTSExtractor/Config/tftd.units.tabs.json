@@ -1,0 +1,112 @@
+[
+    {
+        "SourceFile": "Assets/xcom2/UNITS/AQUA.TAB",
+        "Name": "TFTD-AQUA-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/BIGOBS.TAB",
+        "Name": "TFTD-BIGOBS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/BIODRON.TAB",
+        "Name": "TFTD-BIODRON-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/BREATH-1.TAB",
+        "Name": "TFTD-BREATH-1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/CALCIN.TAB",
+        "Name": "TFTD-CALCIN-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/CIVIL_1.TAB",
+        "Name": "TFTD-CIVIL_1-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/CIVIL_2.TAB",
+        "Name": "TFTD-CIVIL_2-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/DEEPONE.TAB",
+        "Name": "TFTD-DEEPONE-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/FLOOROB.TAB",
+        "Name": "TFTD-FLOOROB-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/GILLMAN.TAB",
+        "Name": "TFTD-GILLMAN-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/HALLUCIN.TAB",
+        "Name": "TFTD-HALLUCIN-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/HANDOB.TAB",
+        "Name": "TFTD-HANDOB-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/LOBSTER.TAB",
+        "Name": "TFTD-LOBSTER-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TANK01.TAB",
+        "Name": "TFTD-TANK01-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TASOTHS.TAB",
+        "Name": "TFTD-TASOTHS-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TDXCOM_0.TAB",
+        "Name": "TFTD-TDXCOM_0-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TDXCOM_1.TAB",
+        "Name": "TFTD-TDXCOM_1-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TDXCOM_2.TAB",
+        "Name": "TFTD-TDXCOM_2-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TENTAC.TAB",
+        "Name": "TFTD-TENTAC-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/TRISCEN.TAB",
+        "Name": "TFTD-TRISCEN-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/XARQUID.TAB",
+        "Name": "TFTD-XARQUID-TAB",
+        "OffsetSize": 4
+    },
+    {
+        "SourceFile": "Assets/xcom2/UNITS/ZOMBIE.TAB",
+        "Name": "TFTD-ZOMBIE-TAB",
+        "OffsetSize": 4
+    }
+]
