@@ -365,4 +365,4 @@ FodyWeavers.xsd
 /TTSExtractorTesting/test/*
 /TTSExtractor/Assets/xcom1
 /TTSExtractor/Assets/xcom2
-/TTSExtractor/Output/Dump/Sprite
+/TTSExtractor/Output
