@@ -1,7 +1,7 @@
 [
     {
         "Name": "floorob_misc",
-        "SourceFile": "Assets/custom/floorob/fancy_art.png",
+        "SourceFile": "Assets/Custom/floorob/fancy_art.png",
         "Width": 64,
         "Height": 80,
         "ColumnCount": 16
