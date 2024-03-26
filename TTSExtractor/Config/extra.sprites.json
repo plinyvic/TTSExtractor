@@ -1,31 +1,7 @@
 [
     {
-        "Name": "floorob_body_1",
-        "SourceFile": "Assets/custom/floorob/floorob_body_1.png",
-        "TargetWidth": 64,
-        "TargetHeight": 80
-    },
-    {
-        "Name": "floorob_body_2",
-        "SourceFile": "Assets/custom/floorob/floorob_body_2.png",
-        "TargetWidth": 64,
-        "TargetHeight": 80
-    },
-    {
-        "Name": "floorob_body_3",
-        "SourceFile": "Assets/custom/floorob/floorob_body_3.png",
-        "TargetWidth": 64,
-        "TargetHeight": 80
-    },
-    {
         "Name": "floorob_body_psionic",
-        "SourceFile": "Assets/custom/floorob/floorob_body_psionic.png",
-        "TargetWidth": 64,
-        "TargetHeight": 80
-    },
-    {
-        "Name": "ear",
-        "SourceFile": "Assets/custom/floorob/ear.png",
+        "SourceFile": "Assets/Custom/SynthSuit/floorob_Synthsuit.png",
         "TargetWidth": 64,
         "TargetHeight": 80
     }
