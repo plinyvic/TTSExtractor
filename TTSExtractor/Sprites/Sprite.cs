@@ -85,9 +85,9 @@ namespace TTSExtractor.Sprites
             ContainedSprite = ExtractorManager.ExtractImage(inputData, palette);
         }
 
-        public virtual void SaveResource()
+        public virtual void SaveResource(string path)
         {
-            ContainedSprite.SaveAsPng($"Output/Dump/Sprite/{Name}.png");
+            ContainedSprite.SaveAsPng(path);
         }
     }
 }

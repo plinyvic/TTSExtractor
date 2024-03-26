@@ -54,7 +54,7 @@ namespace TTSExtractor.Palletes
             }
         }
 
-        public void SaveResource()
+        public void SaveResource(string path)
         {
             // do nothing <3
         }

@@ -19,8 +19,7 @@ namespace TTSExtractor
             // instantiate manager
             ResourceManager resourceManager = new ResourceManager();
             InputReader.ParseInputs(resourceManager);
-
-            resourceManager.SaveAllToDisk();
+            resourceManager.SaveAllOutputs();
 
             return 0;
         }

@@ -4,12 +4,28 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using TTSExtractor.InputData;
 
 namespace TTSExtractor.Resource
 {
+    public class OutputPair
+    {
+        public IResource OutputResource { get; }
+
+        public string OutputPath { get; }
+
+        public OutputPair(IResource outputResource, string outputPath)
+        {
+            OutputResource = outputResource;
+            OutputPath = outputPath;
+        }
+    }
+
     public class ResourceManager
     {
         public Dictionary<string, IResource> ResourceLibrary { get; } = new Dictionary<string, IResource>();
+
+        public List<OutputPair> OutputPairs { get; } = new List<OutputPair>();
 
         /// <summary>
         /// Register a resource with this library.
@@ -59,11 +75,16 @@ namespace TTSExtractor.Resource
             else throw new ArgumentException($"{name} is not a {nameof(TResource)}");
         }
 
-        public void SaveAllToDisk()
+        public void MapOutput(OutputResourceData output)
         {
-            foreach(var resourcePair in ResourceLibrary)
+            OutputPairs.Add(new OutputPair(GetResource(output.Name), output.OutputPath));
+        }
+
+        public void SaveAllOutputs()
+        {
+            foreach(var output in OutputPairs)
             {
-                resourcePair.Value.SaveResource();
+                output.OutputResource.SaveResource(output.OutputPath);
             }
         }
     }

@@ -150,7 +150,7 @@ namespace TTSExtractor.Sprites
             }
         }
 
-        public override void SaveResource()
+        public override void SaveResource(string path)
         {
             int sheetWidth = ColumnCount * Width;
             int sheetHeight = (SpriteList.Count / ColumnCount + 1) * Height;
@@ -163,7 +163,7 @@ namespace TTSExtractor.Sprites
                 sheetToSave.Mutate(x => x.DrawImage(SpriteList[i], new Point(xPos, yPos), 1f));
             }
 
-            sheetToSave.SaveAsPng($"Output/Dump/Sprite/{Name}.png");
+            sheetToSave.SaveAsPng(path);
         }
     }
 }
