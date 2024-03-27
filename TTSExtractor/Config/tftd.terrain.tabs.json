@@ -1,0 +1,327 @@
+[
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ASUNK.TAB",
+        "Name": "TFTD-ASUNK-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ATLANTIS.TAB",
+        "Name": "TFTD-ATLANTIS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/BLANKS.TAB",
+        "Name": "TFTD-BLANKS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CARGO1.TAB",
+        "Name": "TFTD-CARGO1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CARGO2.TAB",
+        "Name": "TFTD-CARGO2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CARGO3.TAB",
+        "Name": "TFTD-CARGO3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CARGO4.TAB",
+        "Name": "TFTD-CARGO4-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CARGO5.TAB",
+        "Name": "TFTD-CARGO5-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CORAL.TAB",
+        "Name": "TFTD-CORAL-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CRYPT1.TAB",
+        "Name": "TFTD-CRYPT1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CRYPT2.TAB",
+        "Name": "TFTD-CRYPT2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CRYPT3.TAB",
+        "Name": "TFTD-CRYPT3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/CRYPT4.TAB",
+        "Name": "TFTD-CRYPT4-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/DEBRIS.TAB",
+        "Name": "TFTD-DEBRIS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/DECKC.TAB",
+        "Name": "TFTD-DECKC-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ENTRY.TAB",
+        "Name": "TFTD-ENTRY-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/GRUNGE1.TAB",
+        "Name": "TFTD-GRUNGE1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/GRUNGE2.TAB",
+        "Name": "TFTD-GRUNGE2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/GRUNGE3.TAB",
+        "Name": "TFTD-GRUNGE3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/GRUNGE4.TAB",
+        "Name": "TFTD-GRUNGE4-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/GRUNGE5.TAB",
+        "Name": "TFTD-GRUNGE5-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/HAMMER.TAB",
+        "Name": "TFTD-HAMMER-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ISLAND1.TAB",
+        "Name": "TFTD-ISLAND1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ISLAND2.TAB",
+        "Name": "TFTD-ISLAND2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ISLAND3.TAB",
+        "Name": "TFTD-ISLAND3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/LEVIATH.TAB",
+        "Name": "TFTD-LEVIATH-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/LINERA.TAB",
+        "Name": "TFTD-LINERA-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/LINERB.TAB",
+        "Name": "TFTD-LINERB-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/LINERC.TAB",
+        "Name": "TFTD-LINERC-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/LINERD.TAB",
+        "Name": "TFTD-LINERD-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/MSUNK1.TAB",
+        "Name": "TFTD-MSUNK1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/MSUNK2.TAB",
+        "Name": "TFTD-MSUNK2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/MU.TAB",
+        "Name": "TFTD-MU-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ORGANIC.TAB",
+        "Name": "TFTD-ORGANIC-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ORGANIC1.TAB",
+        "Name": "TFTD-ORGANIC1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ORGANIC2.TAB",
+        "Name": "TFTD-ORGANIC2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ORGANIC3.TAB",
+        "Name": "TFTD-ORGANIC3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PIPES.TAB",
+        "Name": "TFTD-PIPES-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PLANE.TAB",
+        "Name": "TFTD-PLANE-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PORT01.TAB",
+        "Name": "TFTD-PORT01-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PORT1.TAB",
+        "Name": "TFTD-PORT1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PORT02.TAB",
+        "Name": "TFTD-PORT02-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PSYNOM.TAB",
+        "Name": "TFTD-PSYNOM-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/PYRAMID.TAB",
+        "Name": "TFTD-PYRAMID-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/ROCKS.TAB",
+        "Name": "TFTD-ROCKS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/SAND.TAB",
+        "Name": "TFTD-SAND-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/SEA.TAB",
+        "Name": "TFTD-SEA-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/TRITON.TAB",
+        "Name": "TFTD-TRITON-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UEXT1.TAB",
+        "Name": "TFTD-UEXT1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UEXT2.TAB",
+        "Name": "TFTD-UEXT2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UEXT3.TAB",
+        "Name": "TFTD-UEXT3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UFOBITS.TAB",
+        "Name": "TFTD-UFOBITS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UINT.TAB",
+        "Name": "TFTD-UINT-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UINT1.TAB",
+        "Name": "TFTD-UINT1-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UINT2.TAB",
+        "Name": "TFTD-UINT2-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/UINT3.TAB",
+        "Name": "TFTD-UINT3-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/URBITS.TAB",
+        "Name": "TFTD-URBITS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/VOLC.TAB",
+        "Name": "TFTD-VOLC-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/WEEDS.TAB",
+        "Name": "TFTD-WEEDS-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBASES01.TAB",
+        "Name": "TFTD-XBASES01-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBASES02.TAB",
+        "Name": "TFTD-XBASES02-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBASES03.TAB",
+        "Name": "TFTD-XBASES03-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBASES04.TAB",
+        "Name": "TFTD-XBASES04-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBASES05.TAB",
+        "Name": "TFTD-XBASES05-TAB",
+        "OffsetSize": 2
+    },
+    {
+        "SourceFile": "Assets/xcom2/TERRAIN/XBITS.TAB",
+        "Name": "TFTD-XBITS-TAB",
+        "OffsetSize": 2
+    }
+]

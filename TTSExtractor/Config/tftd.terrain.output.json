@@ -1,0 +1,166 @@
+[
+    {
+        "Name": "TFTD-CARGO1",
+        "OutputPath": "Output/graphics_new/terrain/u_cargo1.png"
+    },
+    {
+        "Name": "TFTD-CARGO2",
+        "OutputPath": "Output/graphics_new/terrain/u_cargo2.png"
+    },
+    {
+        "Name": "TFTD-CARGO3",
+        "OutputPath": "Output/graphics_new/terrain/u_cargo3.png"
+    },
+    {
+        "Name": "TFTD-CORAL",
+        "OutputPath": "Output/graphics_new/terrain/u_coral.png"
+    },
+    {
+        "Name": "TFTD-GRUNGE1",
+        "OutputPath": "Output/graphics_new/terrain/u_dark.png"
+    },
+    {
+        "Name": "TFTD-GRUNGE2",
+        "OutputPath": "Output/graphics_new/terrain/u_dark2.png"
+    },
+    {
+        "Name": "TFTD-GRUNGE2",
+        "OutputPath": "Output/graphics_new/terrain/u_dark3.png"
+    },
+    {
+        "Name": "TFTD-DEBRIS",
+        "OutputPath": "Output/graphics_new/terrain/u_debris.png"
+    },
+    {
+        "Name": "TFTD-DECKC",
+        "OutputPath": "Output/graphics_new/terrain/u_deck.png"
+    },
+    {
+        "Name": "TFTD-CRYPT1",
+        "OutputPath": "Output/graphics_new/terrain/u_final.png"
+    },
+    {
+        "Name": "TFTD-CRYPT2",
+        "OutputPath": "Output/graphics_new/terrain/u_final2.png"
+    },
+    {
+        "Name": "TFTD-CRYPT3",
+        "OutputPath": "Output/graphics_new/terrain/u_final3.png"
+    },
+    {
+        "Name": "TFTD-ISLAND1",
+        "OutputPath": "Output/graphics_new/terrain/u_island1.png"
+    },
+    {
+        "Name": "TFTD-ISLAND2",
+        "OutputPath": "Output/graphics_new/terrain/u_island2.png"
+    },
+    {
+        "Name": "TFTD-ISLAND3",
+        "OutputPath": "Output/graphics_new/terrain/u_island3.png"
+    },
+    {
+        "Name": "TFTD-MU",
+        "OutputPath": "Output/graphics_new/terrain/mu.png"
+    },
+    {
+        "Name": "TFTD-ORGANIC2",
+        "OutputPath": "Output/graphics_new/terrain/u_organic2.png"
+    },
+    {
+        "Name": "TFTD-PIPES",
+        "OutputPath": "Output/graphics_new/terrain/u_pipes.png"
+    },
+    {
+        "Name": "TFTD-PLANE",
+        "OutputPath": "Output/graphics_new/terrain/u_plane.png"
+    },
+    {
+        "Name": "TFTD-PORT1",
+        "OutputPath": "Output/graphics_new/terrain/u_port.png"
+    },
+    {
+        "Name": "TFTD-PORT02",
+        "OutputPath": "Output/graphics_new/terrain/u_port2.png"
+    },
+    {
+        "Name": "TFTD-PYRAMID",
+        "OutputPath": "Output/graphics_new/terrain/u_pyramid.png"
+    },
+    {
+        "Name": "TFTD-ROCKS",
+        "OutputPath": "Output/graphics_new/terrain/u_rocks.png"
+    },
+    {
+        "Name": "TFTD-SAND",
+        "OutputPath": "Output/graphics_new/terrain/u_sand.png"
+    },
+    {
+        "Name": "TFTD-ASUNK",
+        "OutputPath": "Output/graphics_new/terrain/u_sank3.png"
+    },
+    {
+        "Name": "TFTD-SEA",
+        "OutputPath": "Output/graphics_new/terrain/u_sea.png"
+    },
+    {
+        "Name": "TFTD-LINERA",
+        "OutputPath": "Output/graphics_new/terrain/u_ship.png"
+    },
+    {
+        "Name": "TFTD-LINERB",
+        "OutputPath": "Output/graphics_new/terrain/u_ship2.png"
+    },
+    {
+        "Name": "TFTD-LINERC",
+        "OutputPath": "Output/graphics_new/terrain/u_ship3.png"
+    },
+    {
+        "Name": "TFTD-LINERD",
+        "OutputPath": "Output/graphics_new/terrain/u_ship4.png"
+    },
+    {
+        "Name": "TFTD-ATLANTIS",
+        "OutputPath": "Output/graphics_new/terrain/u_sunk_city.png"
+    },
+    {
+        "Name": "TFTD-MSUNK1",
+        "OutputPath": "Output/graphics_new/terrain/u_sunk_ship.png"
+    },
+    {
+        "Name": "TFTD-MSUNK2",
+        "OutputPath": "Output/graphics_new/terrain/u_sunk_ship2.png"
+    },
+    {
+        "Name": "TFTD-UEXT2",
+        "OutputPath": "Output/graphics_new/terrain/u_ufo_external.png"
+    },
+    {
+        "Name": "TFTD-UINT1",
+        "OutputPath": "Output/graphics_new/terrain/u_ufo_internal.png"
+    },
+    {
+        "Name": "TFTD-UINT2",
+        "OutputPath": "Output/graphics_new/terrain/u_ufo_internal2.png"
+    },
+    {
+        "Name": "TFTD-UINT3",
+        "OutputPath": "Output/graphics_new/terrain/u_ufo_internal3.png"
+    },
+    {
+        "Name": "TFTD-ORGANIC",
+        "OutputPath": "Output/graphics_new/terrain/u_u_base.png"
+    },
+    {
+        "Name": "TFTD-TRITON",
+        "OutputPath": "Output/graphics_new/terrain/u_u_plane.png"
+    },
+    {
+        "Name": "TFTD-VOLC",
+        "OutputPath": "Output/graphics_new/terrain/u_volcano.png"
+    },
+    {
+        "Name": "TFTD-WEEDS",
+        "OutputPath": "Output/graphics_new/terrain/u_weeds.png"
+    }
+]
