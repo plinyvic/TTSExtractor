@@ -15,13 +15,13 @@ namespace TTSExtractor.InputData
         [JsonProperty(Required = Required.Always)]
         public List<SpriteSheetRange> SpriteSheets { get; set; } = new List<SpriteSheetRange>();
 
-        [JsonProperty(Required = Required.Always)]
-        public int ColumnCount { get; set; }
+        [JsonProperty(Required = Required.DisallowNull)]
+        public int ColumnCount { get; set; } = 1;
 
-        [JsonProperty(Required = Required.Always)]
-        public int TargetWidth {  get; set; }
+        [JsonProperty(Required = Required.DisallowNull)]
+        public int TargetWidth { get; set; } = 64;
 
-        [JsonProperty(Required = Required.Always)]
-        public int TargetHeight { get; set; }
+        [JsonProperty(Required = Required.DisallowNull)]
+        public int TargetHeight { get; set; } = 96;
     }
 }

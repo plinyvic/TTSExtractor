@@ -153,7 +153,8 @@ namespace TTSExtractor.Sprites
         public override void SaveResource(string path)
         {
             int sheetWidth = ColumnCount * Width;
-            int sheetHeight = (SpriteList.Count / ColumnCount + 1) * Height;
+            //int sheetHeight = (SpriteList.Count / ColumnCount + 1) * Height;
+            int sheetHeight = ColumnCount == 1 ? Height : (SpriteList.Count / ColumnCount + 1) * Height;
             Image<Rgba32> sheetToSave = new Image<Rgba32>(sheetWidth, sheetHeight, new Rgba32(0, 0, 0, 0));
 
             for(int i = 0; i < SpriteList.Count; i++)
