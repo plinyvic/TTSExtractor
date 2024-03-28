@@ -1,0 +1,222 @@
+[
+    {
+        "Name": "UFO-BIGOB-LASERRIFLE",
+        "OutputPath": "Output/graphics_new/battle/laser_rifle.png"
+    },
+    {
+        "Name": "UFO-BIGOB-RIFLE",
+        "OutputPath": "Output/graphics_new/battle/rifle.png"
+    },
+    {
+        "Name": "UFO-BIGOB-RIFLEMAG",
+        "OutputPath": "Output/graphics_new/battle/rifle_clip.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PISTOL",
+        "OutputPath": "Output/graphics_new/battle/pistol.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PISTOLMAG",
+        "OutputPath": "Output/graphics_new/battle/pistol_clip.png"
+    },
+    {
+        "Name": "UFO-BIGOB-LASERPISTOL",
+        "OutputPath": "Output/graphics_new/battle/laser_pistol.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYLASER",
+        "OutputPath": "Output/graphics_new/battle/heavy_laser.png"
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNON",
+        "OutputPath": "Output/graphics_new/battle/auto_cannon.png"
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPAP",
+        "OutputPath": "Output/graphics_new/battle/auto_cannon_clip_ap.png"
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPHE",
+        "OutputPath": "Output/graphics_new/battle/auto_cannon_clip_he.png"
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPIN",
+        "OutputPath": "Output/graphics_new/battle/auto_cannon_clip_i.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNON",
+        "OutputPath": "Output/graphics_new/battle/heavy_cannon.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPAP",
+        "OutputPath": "Output/graphics_new/battle/heavy_cannon_clip_ap.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPHE",
+        "OutputPath": "Output/graphics_new/battle/heavy_cannon_clip_he.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPIN",
+        "OutputPath": "Output/graphics_new/battle/heavy_cannon_clip_i.png"
+    },
+    {
+        "Name": "UFO-BIGOB-ROCKETLAUNCHER",
+        "OutputPath": "Output/graphics_new/battle/rocket_launcher.png"
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLROCKET",
+        "OutputPath": "Output/graphics_new/battle/rocket_small.png"
+    },
+    {
+        "Name": "UFO-BIGOB-LARGEROCKET",
+        "OutputPath": "Output/graphics_new/battle/rocket_large.png"
+    },
+    {
+        "Name": "UFO-BIGOB-INROCKET",
+        "OutputPath": "Output/graphics_new/battle/rocket_inc.png"
+    },
+    {
+        "Name": "UFO-BIGOB-GRENADE",
+        "OutputPath": "Output/graphics_new/battle/grenade.png"
+    },
+    {
+        "Name": "UFO-BIGOB-SMOKEGRENADE",
+        "OutputPath": "Output/graphics_new/battle/smoke_grenade.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PROXIMITYGRENADE",
+        "OutputPath": "Output/graphics_new/battle/proximity_grenade.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HE",
+        "OutputPath": "Output/graphics_new/battle/high_explosive.png"
+    },
+    {
+        "Name": "UFO-BIGOB-MOTIONSCANNER",
+        "OutputPath": "Output/graphics_new/battle/motion_scanner.png"
+    },
+    {
+        "Name": "UFO-BIGOB-MEDKIT",
+        "OutputPath": "Output/graphics_new/battle/medi_kit.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYPLASMACLIP",
+        "OutputPath": "Output/graphics_new/battle/heavy_plasma_clip.png"
+    },
+    {
+        "Name": "UFO-BIGOB-STUNROD",
+        "OutputPath": "Output/graphics_new/battle/stun_rod.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_PERSONAL_ARMOR",
+        "OutputPath": "Output/graphics_new/battle/corpse_personal.png"
+    },
+    {
+        "Name": "UFO-BIGOB-MINDPROBE",
+        "OutputPath": "Output/graphics_new/battle/mind_probe.png"
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYPLASMA",
+        "OutputPath": "Output/graphics_new/battle/heavy_plasma.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMARIFLE",
+        "OutputPath": "Output/graphics_new/battle/plasma_rifle.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMAPISTOL",
+        "OutputPath": "Output/graphics_new/battle/plasma_pistol.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PSIAMP",
+        "OutputPath": "Output/graphics_new/battle/psi_device.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMAPISTOLCLIP",
+        "OutputPath": "Output/graphics_new/battle/plasma_pistol_clip.png"
+    },
+    {
+        "Name": "UFO-BIGOB-BLASTERLAUNCHER",
+        "OutputPath": "Output/graphics_new/battle/alien_launcher.png"
+    },
+    {
+        "Name": "UFO-BIGOB-BLASTERLAUNCHERAMMO",
+        "OutputPath": "Output/graphics_new/battle/alien_launcher_missile.png"
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLLAUNCHER",
+        "OutputPath": "Output/graphics_new/battle/small_launcher.png"
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLLAUNCHERAMMO",
+        "OutputPath": "Output/graphics_new/battle/stun_bomb.png"
+    },
+    {
+        "Name": "UFO-BIGOB-ALIENGRENADE",
+        "OutputPath": "Output/graphics_new/battle/alien_grenade.png"
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_CANNON",
+        "OutputPath": "Output/graphics_new/battle/turret_cannon.png"
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMARIFLECLIP",
+        "OutputPath": "Output/graphics_new/battle/plasma_rifle_clip.png"
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_ROCKET",
+        "OutputPath": "Output/graphics_new/battle/turret_rocket_launcher.png"
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_LASER",
+        "OutputPath": "Output/graphics_new/battle/turret_laser.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_POWERSUIT",
+        "OutputPath": "Output/graphics_new/battle/corpse_power.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_HUMAN",
+        "OutputPath": "Output/graphics_new/battle/corpse_soldier.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SECTOID",
+        "OutputPath": "Output/graphics_new/battle/corpse_gray.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_CELATID",
+        "OutputPath": "Output/graphics_new/battle/corpse_spitter.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_MUTON",
+        "OutputPath": "Output/graphics_new/battle/corpse_mutant.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_ETHEREAL",
+        "OutputPath": "Output/graphics_new/battle/corpse_phantom.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SNAKEMAN",
+        "OutputPath": "Output/graphics_new/battle/corpse_viper.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SILACOID",
+        "OutputPath": "Output/graphics_new/battle/corpse_stone.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_FLOATER",
+        "OutputPath": "Output/graphics_new/battle/corpse_flier.png"
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_CHRYSALLID",
+        "OutputPath": "Output/graphics_new/battle/corpse_claws.png"
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_ADVANCED",
+        "OutputPath": "Output/graphics_new/battle/turret_hovertank.png"
+    },
+    {
+        "Name": "UFO-BIGOB-ELECTROFLARE",
+        "OutputPath": "Output/graphics_new/battle/electro_flare.png"
+    }
+]

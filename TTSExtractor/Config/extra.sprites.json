@@ -4,5 +4,29 @@
         "SourceFile": "Assets/Custom/SynthSuit/floorob_Synthsuit.png",
         "TargetWidth": 64,
         "TargetHeight": 80
+    },
+    {
+        "Name": "floorob_body_bikini",
+        "SourceFile": "Assets/Custom/floorob/floorob_BIKINI_BABE_CORPSE.png",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "Name": "floorob_body_farmer",
+        "SourceFile": "Assets/Custom/floorob/floorob_FARMER_CORPSE.png",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "Name": "floorob_body_fat",
+        "SourceFile": "Assets/Custom/floorob/floorob_MALE_FAT_TOURIST_CORPSE.png",
+        "TargetWidth": 64,
+        "TargetHeight": 80
+    },
+    {
+        "Name": "floorob_ear",
+        "SourceFile": "Assets/Custom/floorob/ear.PNG",
+        "TargetWidth": 64,
+        "TargetHeight": 80
     }
 ]

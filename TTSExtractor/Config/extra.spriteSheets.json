@@ -7,5 +7,14 @@
         "ColumnCount": 16,
         "TargetWidth": 64,
         "TargetHeight": 80
+    },
+    {
+        "Name": "floorob_misc",
+        "SourceFile": "Assets/Custom/floorob/fancy_art.png",
+        "Width": 64,
+        "Height": 80,
+        "ColumnCount": 16,
+        "TargetWidth": 64,
+        "TargetHeight": 80
     }
 ]

@@ -1,0 +1,629 @@
+[
+    {
+        "Name": "UFO-BIGOB-LASERRIFLE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 0,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-RIFLE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 1,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-RIFLEMAG",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 2,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PISTOL",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 3,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PISTOLMAG",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 4,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-LASERPISTOL",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 5,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYLASER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 6,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNON",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 7,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPAP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 8,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPHE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 9,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-AUTOCANNONCLIPIN",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 10,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNON",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 11,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPAP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 12,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPHE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 13,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYCANNONCLIPIN",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 14,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-ROCKETLAUNCHER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 15,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLROCKET",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 16,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-LARGEROCKET",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 17,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-INROCKET",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 18,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-GRENADE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 19,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-SMOKEGRENADE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 20,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PROXIMITYGRENADE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 21,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 22,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-MOTIONSCANNER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 23,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-MEDKIT",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 24,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYPLASMACLIP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 25,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-STUNROD",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 26,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-INCENDIARYGRENADE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 27,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_PERSONAL_ARMOR",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 28,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-MINDPROBE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 29,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-HEAVYPLASMA",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 30,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMARIFLE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 31,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMAPISTOL",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 32,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PSIAMP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 33,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMAPISTOLCLIP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 34,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-BLASTERLAUNCHER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 35,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-BLASTERLAUNCHERAMMO",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 36,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLLAUNCHER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 37,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-SMALLLAUNCHERAMMO",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 38,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-ALIENGRENADE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 39,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_CANNON",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 40,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-PLASMARIFLECLIP",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 41,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_ROCKET",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 42,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_LASER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 43,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_POWERSUIT",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 44,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_HUMAN",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 45,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SECTOID",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 46,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_CELATID",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 47,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_MUTON",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 48,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_ETHEREAL",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 49,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SNAKEMAN",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 50,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_SILACOID",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 51,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_FLOATER",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 52,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-CORPSE_CHRYSALLID",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 53,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-TURRET_ADVANCED",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 54,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-ELECTROFLARE",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 55,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "UFO-BIGOB-ELERIUM",
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-BIGOBS",
+                "StartIndex": 56,
+                "Length": 1
+            }
+        ]
+    }
+]

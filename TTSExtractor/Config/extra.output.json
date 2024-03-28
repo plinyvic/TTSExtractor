@@ -2,5 +2,13 @@
     {
         "Name": "SYNTHSUIT",
         "OutputPath": "Output/graphics_new/units/soldier_5.png"
+    },
+    {
+        "Name": "floorob",
+        "OutputPath": "Output/graphics_new/battle/floor_objects.png"
+    },
+    {
+        "Name": "handob",
+        "OutputPath": "Output/graphics_new/battle/hand_objects .png"
     }
 ]

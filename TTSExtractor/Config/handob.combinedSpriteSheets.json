@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "handob",
+        "ColumnCount": 16,
+        "TargetWidth": 64,
+        "TargetHeight": 80,
+        "SpriteSheets":
+        [
+            {
+                "Name": "UFO-HANDOB"
+            },
+            {
+                "Name": "TFTD-HANDOB"
+            }
+        ]
+    }
+]
