@@ -10,7 +10,44 @@
                 "Name": "UFO-HANDOB"
             },
             {
-                "Name": "TFTD-HANDOB"
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 32,
+                "Length": 48
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 168,
+                "Length": 8
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 88,
+                "Length": 8
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 184,
+                "Length": 8
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 144,
+                "Length": 8
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 0,
+                "Length": 8
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 8,
+                "Length": 24
+            },
+            {
+                "Name": "TFTD-HANDOB",
+                "StartIndex": 128,
+                "Length": 8
             }
         ]
     }

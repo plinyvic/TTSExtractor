@@ -9,6 +9,6 @@
     },
     {
         "Name": "handob",
-        "OutputPath": "Output/graphics_new/battle/hand_objects .png"
+        "OutputPath": "Output/graphics_new/battle/hand_objects.png"
     }
 ]
