@@ -1,2 +1,2 @@
-floorob_bodies made by Solarius Scorch
+floorob_bodies made by Solarius Scorch, pulled from xcom files
 fancy_art made by Marlo
