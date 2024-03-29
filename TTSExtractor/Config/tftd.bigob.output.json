@@ -1,0 +1,178 @@
+[
+    {
+        "Name": "TFTD-BIGOB-GAUSS_RIFLE",
+        "OutputPath": "Output/graphics_new/battle/gauss_rifle.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HARPOON_GUN",
+        "OutputPath": "Output/graphics_new/battle/jet_harpoon.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HARPOON_GUN_CLIP",
+        "OutputPath": "Output/graphics_new/battle/jet_harpoon_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GAUSS_PISTOL",
+        "OutputPath": "Output/graphics_new/battle/gauss_pistol.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HEAVY_GAUSS",
+        "OutputPath": "Output/graphics_new/battle/heavy_gauss.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HYDROJET",
+        "OutputPath": "Output/graphics_new/battle/heavy_u_cannon.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HYDROJET_AP",
+        "OutputPath": "Output/graphics_new/battle/heavy_u_cannon_ammo_ap.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HYDROJET_HE",
+        "OutputPath": "Output/graphics_new/battle/heavy_u_cannon_ammo_he.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GASCANNON",
+        "OutputPath": "Output/graphics_new/battle/gas_cannon.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GASCANNON_AP",
+        "OutputPath": "Output/graphics_new/battle/gas_cannon_ammo_ap.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GASCANNON_HE",
+        "OutputPath": "Output/graphics_new/battle/gas_cannon_ammo_he.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TORPEDO_LAUNCHER",
+        "OutputPath": "Output/graphics_new/battle/torpedo_launcher.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TORPEDO_SMALL",
+        "OutputPath": "Output/graphics_new/battle/torpedo_launcher_ammo_small.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TORPEDO_LARGE",
+        "OutputPath": "Output/graphics_new/battle/torpedo_launcher_ammo_large.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_CANNON_CLIP",
+        "OutputPath": "Output/graphics_new/battle/sonic_cannon_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_DIVER",
+        "OutputPath": "Output/graphics_new/battle/corpse_dive.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_CANNON",
+        "OutputPath": "Output/graphics_new/battle/sonic_cannon.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_RIFLE",
+        "OutputPath": "Output/graphics_new/battle/sonic_rifle.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_PISTOL",
+        "OutputPath": "Output/graphics_new/battle/sonic_pistol.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_PISTOL_CLIP",
+        "OutputPath": "Output/graphics_new/battle/sonic_pistol_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-DPL",
+        "OutputPath": "Output/graphics_new/battle/disruptor.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-DPL_AMMO",
+        "OutputPath": "Output/graphics_new/battle/disruptor_bomb.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-THERMAL_SHOK_LAUNCHER",
+        "OutputPath": "Output/graphics_new/battle/thermal_launcher.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-THERMAL_SHOK_LAUNCHER_AMMO",
+        "OutputPath": "Output/graphics_new/battle/thermal_bomb.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_PULSER",
+        "OutputPath": "Output/graphics_new/battle/sonic_grenade.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TURRET_CANNON",
+        "OutputPath": "Output/graphics_new/battle/turret_gauss.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-SONIC_RIFLE_CLIP",
+        "OutputPath": "Output/graphics_new/battle/sonic_rifle_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TURRET_ADV_TORPEDO",
+        "OutputPath": "Output/graphics_new/battle/turret_pwt.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_AQUA_PLASTIC",
+        "OutputPath": "Output/graphics_new/battle/corpse_aqua.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_ION",
+        "OutputPath": "Output/graphics_new/battle/corpse_ion.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_AQUATOID",
+        "OutputPath": "Output/graphics_new/battle/corpse_blue.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_DEEPONE",
+        "OutputPath": "Output/graphics_new/battle/corpse_darkone.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_TASOTH",
+        "OutputPath": "Output/graphics_new/battle/corpse_seademon.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_LOBSTER",
+        "OutputPath": "Output/graphics_new/battle/corpse_crab.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_GILLMAN",
+        "OutputPath": "Output/graphics_new/battle/corpse_fishman.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_BIODRONE",
+        "OutputPath": "Output/graphics_new/battle/corpse_living_machine.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_CALCINITE",
+        "OutputPath": "Output/graphics_new/battle/corpse_u_horror.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-CORPSE_TENTACULAT",
+        "OutputPath": "Output/graphics_new/battle/corpse_brainiac.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-TURRET_ADV",
+        "OutputPath": "Output/graphics_new/battle/turret_sonic.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GAUSS_PISTOL_CLIP",
+        "OutputPath": "Output/graphics_new/battle/gauss_pistol_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HEAVY_THERMAL_LANCE",
+        "OutputPath": "Output/graphics_new/battle/heavy_lance.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-VIBRO_BLADE",
+        "OutputPath": "Output/graphics_new/battle/blade.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-GAUSS_RIFLE_CLIP",
+        "OutputPath": "Output/graphics_new/battle/gauss_rifle_clip.png"
+    },
+    {
+        "Name": "TFTD-BIGOB-HEAVY_GAUSS_CLIP",
+        "OutputPath": "Output/graphics_new/battle/heavy_gauss_clip.png"
+    }
+]
