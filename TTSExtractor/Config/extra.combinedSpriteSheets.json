@@ -1,0 +1,46 @@
+[
+    {
+        "Name": "bigob_alien_attack",
+        "SpriteSheets":
+        [
+            {
+                "Name": "bigob_terror",
+                "StartIndex": 0,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "bigob_bite",
+        "SpriteSheets":
+        [
+            {
+                "Name": "bigob_terror",
+                "StartIndex": 1,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "bigob_spit",
+        "SpriteSheets":
+        [
+            {
+                "Name": "bigob_terror",
+                "StartIndex": 2,
+                "Length": 1
+            }
+        ]
+    },
+    {
+        "Name": "bigob_claw_attack",
+        "SpriteSheets":
+        [
+            {
+                "Name": "bigob_terror",
+                "StartIndex": 3,
+                "Length": 1
+            }
+        ]
+    }
+]

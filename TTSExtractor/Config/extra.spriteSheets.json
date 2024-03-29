@@ -16,5 +16,14 @@
         "ColumnCount": 16,
         "TargetWidth": 64,
         "TargetHeight": 80
+    },
+    {
+        "Name": "bigob_terror",
+        "SourceFile": "Assets/Custom/bigob/Terror.png",
+        "Width": 32,
+        "Height": 48,
+        "ColumnCount": 2,
+        "TargetWidth": 64,
+        "TargetHeight": 96
     }
 ]

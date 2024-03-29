@@ -10,5 +10,29 @@
     {
         "Name": "handob",
         "OutputPath": "Output/graphics_new/battle/hand_objects.png"
+    },
+    {
+        "Name": "bigob_corpse_synthsuit",
+        "OutputPath": "Output/graphics_new/battle/corpse_psionic.png"
+    },
+    {
+        "Name": "bigob_sniper",
+        "OutputPath": "Output/graphics_new/battle/sniper.png"
+    },
+    {
+        "Name": "bigob_sniper_clip",
+        "OutputPath": "Output/graphics_new/battle/sniper_clip.png"
+    },
+    {
+        "Name": "bigob_laser_sniper",
+        "OutputPath": "Output/graphics_new/battle/laser_sniper.png"
+    },
+    {
+        "Name": "bigob_spit",
+        "OutputPath": "Output/graphics_new/battle/alien_weap.png"
+    },
+    {
+        "Name": "bigob_claw_attack",
+        "OutputPath": "Output/graphics_new/battle/claws.png"
     }
 ]

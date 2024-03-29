@@ -28,5 +28,29 @@
         "SourceFile": "Assets/Custom/floorob/ear.PNG",
         "TargetWidth": 64,
         "TargetHeight": 80
+    },
+    {
+        "Name": "bigob_sniper",
+        "SourceFile": "Assets/Custom/bigob/bigob_SniperRifle.png",
+        "TargetWidth": 64,
+        "TargetHeight": 96
+    },
+    {
+        "Name": "bigob_sniper_clip",
+        "SourceFile": "Assets/Custom/bigob/bigob_SniperRifleClip.png",
+        "TargetWidth": 64,
+        "TargetHeight": 96
+    },
+    {
+        "Name": "bigob_laser_sniper",
+        "SourceFile": "Assets/Custom/bigob/bigob_TurbolaserSniperRifle.png",
+        "TargetWidth": 64,
+        "TargetHeight": 96
+    },
+    {
+        "Name": "bigob_corpse_synthsuit",
+        "SourceFile": "Assets/Custom/SynthSuit/bigob_Synthsuit.png",
+        "TargetWidth": 64,
+        "TargetHeight": 96
     }
 ]
