@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "UFO-AVENGER-FIXED",
+        "ColumnCount": 16,
+        "TargetWidth": 64,
+        "TargetHeight": 80,
+        "SpriteSheets": 
+        [
+            {
+                "Name": "UFO-AVENGER",
+                "StartIndex": 0,
+                "Length": 54
+            },
+            {
+                "Name": "UFO-AVENGER",
+                "StartIndex": 61,
+                "Length": 1
+            },
+            {
+                "Name": "UFO-AVENGER",
+                "StartIndex": 54,
+                "Length": 7
+            }
+        ]
+    }
+]
