@@ -1,4 +1,6 @@
 ﻿using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats.Bmp;
+using SixLabors.ImageSharp.Formats.Png;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp.Processing.Processors.Transforms;
@@ -155,6 +157,20 @@ namespace TTSExtractor.Sprites
             int sheetWidth = ColumnCount * Width;
             //int sheetHeight = (SpriteList.Count / ColumnCount + 1) * Height;
             int sheetHeight = ColumnCount == 1 ? Height : (SpriteList.Count / ColumnCount + 1) * Height;
+
+            // find sheet height
+            int tempI = 1;
+            while(true)
+            {
+                int temp = (int)Math.Pow(2, tempI);
+                if(temp >= sheetHeight)
+                {
+                    sheetHeight = temp;
+                    break;
+                }
+                tempI++;
+            }
+
             Image<Rgba32> sheetToSave = new Image<Rgba32>(sheetWidth, sheetHeight, new Rgba32(0, 0, 0, 0));
 
             for(int i = 0; i < SpriteList.Count; i++)
@@ -164,6 +180,16 @@ namespace TTSExtractor.Sprites
                 sheetToSave.Mutate(x => x.DrawImage(SpriteList[i], new Point(xPos, yPos), 1f));
             }
 
+            if (SpriteList.Count == 1 && Name.ToLower().Contains("bigob"))
+            {
+                // evil hardcoded bigob resize
+                Image<Rgba32> resizedBigob = new Image<Rgba32>(64, 128, new Rgba32(0, 0, 0, 0));
+                //sheetToSave.Mutate(x => x.DrawImage(SpriteList[i], new Point(xPos, yPos), 1f));
+                resizedBigob.Mutate(x => x.DrawImage(sheetToSave, new Point(0, 0), 1f));
+                sheetToSave = resizedBigob;
+            }
+            
+            
             sheetToSave.SaveAsPng(path);
         }
     }

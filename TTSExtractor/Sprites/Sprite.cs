@@ -1,5 +1,7 @@
 ﻿using Newtonsoft.Json;
 using SixLabors.ImageSharp;
+using SixLabors.ImageSharp.Formats.Bmp;
+using SixLabors.ImageSharp.Formats.Png;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 using SixLabors.ImageSharp.Processing.Processors.Transforms;
@@ -63,7 +65,6 @@ namespace TTSExtractor.Sprites
                 resampler = KnownResamplers.NearestNeighbor;
             }
 
-
             ContainedSprite.Mutate(x => x.Resize(targetWidth, targetHeight, resampler));
         }
 
@@ -87,7 +88,33 @@ namespace TTSExtractor.Sprites
 
         public virtual void SaveResource(string path)
         {
-            ContainedSprite.SaveAsPng(path);
+            // if image is a bigob, do resize image and place in top left.
+            // i really hate the existance of this, but i'm not sure of a better way to switch on the logic.
+            if(Name.ToLower().Contains("bigob"))
+            {
+                // evil hardcoded bigob resize
+                Image<Rgba32> resizedBigob = new Image<Rgba32>(64, 128, new Rgba32(0, 0, 0, 0));
+                //sheetToSave.Mutate(x => x.DrawImage(SpriteList[i], new Point(xPos, yPos), 1f));
+                resizedBigob.Mutate(x => x.DrawImage(ContainedSprite, new Point(0, 0), 1f));
+                ContainedSprite = resizedBigob;
+            }
+
+            var options = new GraphicsOptions
+            {
+                //AlphaCompositionMode = PixelAlphaCompositionMode.
+                Antialias = true,
+
+            };
+
+            ContainedSprite.Configuration.SetGraphicsOptions(options);
+
+            var encoder = new PngEncoder
+            {
+                CompressionLevel = PngCompressionLevel.NoCompression,
+                BitDepth = PngBitDepth.Bit8
+            };
+
+            ContainedSprite.SaveAsPng(path, encoder);
         }
     }
 }
